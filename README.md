@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shiplu
 - 👀 I’m interested in Laravel
-- 🌱 I’m currently learning Laravel With Vue.js
+- 🌱 I’m currently learning Laravel With React
 - 💞️ I’m looking to collaborate on Laravel Web Application 
 - 📫 Email Me at : shiplu2111@gmail.com
 
