@@ -25,12 +25,13 @@ I'm always excited to take on new challenges and contribute to exciting open-sou
 
 
 ## 🌐Socials
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shipludiu1991) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiplu2111) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shiplu2111/)
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
-<h3 align="center">Languages</h3>
-<p align="center">
+<h3 align="left">Languages</h3>
+<p align="left">
   <a href="#" target="_blank"> 
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"
       alt="c"/>
@@ -54,8 +55,8 @@ I'm always excited to take on new challenges and contribute to exciting open-sou
   </a>
 </p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
+<h3 align="left">Frontend</h3>
+<p align="left">
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
@@ -79,8 +80,8 @@ I'm always excited to take on new challenges and contribute to exciting open-sou
   </a>
 </p>
 
-<h3 align="center">Backend</h3>
-<p align="center">
+<h3 align="left">Backend</h3>
+<p align="left">
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
@@ -97,8 +98,8 @@ I'm always excited to take on new challenges and contribute to exciting open-sou
  
 </p>
 
-<h3 align="center">Database</h3>
-<p align="center">
+<h3 align="left">Database</h3>
+<p align="left">
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
       alt="mysql"/>
@@ -123,8 +124,8 @@ I'm always excited to take on new challenges and contribute to exciting open-sou
   
 </p>
 
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
+<h3 align="left">Cloud & Hosting:</h3>
+<p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank">
     <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
   </a>
@@ -145,8 +146,8 @@ I'm always excited to take on new challenges and contribute to exciting open-sou
 </p>
 
 
-<h3 align="center">Version Control & CI/CD</h3>
-<p align="center">
+<h3 align="left">Version Control & CI/CD</h3>
+<p align="left">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
@@ -167,8 +168,8 @@ I'm always excited to take on new challenges and contribute to exciting open-sou
   </a>
 </p>
 
-<h3 align="center">Preferred IDEs  & Tools :</h3>
-<p align="center"> 
+<h3 align="left">Preferred IDEs  & Tools :</h3>
+<p align="left"> 
   
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
