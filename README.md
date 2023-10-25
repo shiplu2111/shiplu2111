@@ -134,9 +134,13 @@ I'm always excited to take on new challenges and contribute to exciting open-sou
   <a href="https://netlify.com/" target="_blank">
     <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
   </a>
-  <a href="https://heroku.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="heroku"/> 
+  <a href="https://vercel.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="vercel"/> 
+  </a> 
+   <a href="https://aws.amazon.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="AWS"/> 
   </a> 
 </p>
 
@@ -158,16 +162,14 @@ I'm always excited to take on new challenges and contribute to exciting open-sou
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
       alt="docker"/>
   </a>
-  <a href="https://www.jenkins.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
+  <a href="https://bitbucket.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="bitbucket"/> 
   </a>
 </p>
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
 <p align="center"> 
-  <a href="https://eclipse.org" target="_blank">
-    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
-  </a>
+  
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
@@ -181,8 +183,11 @@ I'm always excited to take on new challenges and contribute to exciting open-sou
     <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
       alt="virtualbox"/>
   </a>
-  <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+  <a href="https://jetbrains.com/phpstorm/" target="_blank"> 
+    <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" alt="phpstorm"/>
+  </a>
+   <a href="https://www.sublimetext.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="sublime_text"/>
   </a>
 </p>
 
